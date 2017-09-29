@@ -1,2 +1,2 @@
 # ECE579
-Clud Coputing Fall 17
+Cloud Computing Fall 17
